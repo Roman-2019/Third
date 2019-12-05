@@ -1,0 +1,7 @@
+E:\C\HomeWork2\FizzBuzz\bin\Debug\FizzBuzz.exe.config
+E:\C\HomeWork2\FizzBuzz\bin\Debug\FizzBuzz.exe
+E:\C\HomeWork2\FizzBuzz\bin\Debug\FizzBuzz.pdb
+E:\C\HomeWork2\FizzBuzz\obj\Debug\FizzBuzz.csprojAssemblyReference.cache
+E:\C\HomeWork2\FizzBuzz\obj\Debug\FizzBuzz.exe
+E:\C\HomeWork2\FizzBuzz\obj\Debug\FizzBuzz.pdb
+E:\C\HomeWork2\FizzBuzz\obj\Debug\FizzBuzz.csproj.CopyComplete

@@ -1,0 +1,5 @@
+E:\C\HomeWork2\RaschetFizzBuzz\bin\Debug\RaschetFizzBuzz.dll
+E:\C\HomeWork2\RaschetFizzBuzz\bin\Debug\RaschetFizzBuzz.pdb
+E:\C\HomeWork2\RaschetFizzBuzz\obj\Debug\RaschetFizzBuzz.csprojAssemblyReference.cache
+E:\C\HomeWork2\RaschetFizzBuzz\obj\Debug\RaschetFizzBuzz.dll
+E:\C\HomeWork2\RaschetFizzBuzz\obj\Debug\RaschetFizzBuzz.pdb
